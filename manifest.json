@@ -1,0 +1,54 @@
+{
+    "name": "Contador App",
+    "short_name": "Contador",
+    "description": "Contador App sirve para contar valores entre -10 y 10",
+    "background_color": "#35495E",
+    "theme_color": "#41B883",
+    "start_url": "./?umt_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-ES",
+    "display": "fullscreen",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./resources/icon_16.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "./resources/icon_32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./resources/icon_64.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "./resources/icon_128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./resources/icon_256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./resources/icon_512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./resources/icon_1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "./resources/icon_4096.png",
+            "sizes": "4096x4096",
+            "type": "image/png"
+        }
+    ]
+}
